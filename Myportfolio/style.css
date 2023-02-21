@@ -124,9 +124,13 @@ p {
 	display: block;
 }
 
-#footer a {
-	color: #e25555;
+#header .nav-list ul a {
+	color: #fff;
 }
+
+/* #footer .point {
+	color: #e25555;
+} */
 #header .nav-list ul a::after {
 	content: attr(data-after);
 	position: absolute;
