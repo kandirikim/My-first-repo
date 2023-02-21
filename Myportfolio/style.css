@@ -391,6 +391,7 @@ p {
 #projects .project-info .cta{
 	padding: 10px;
 	font-size: 16px;
+	color: #fff;
 }
 #projects .project-img {
 	flex-basis: 50%;
