@@ -128,7 +128,7 @@ p {
 	color: #fff;
 }
 
-/* #footer .point {
+/* #footer .point, .project-info a{
 	color: #e25555;
 } */
 #header .nav-list ul a::after {
