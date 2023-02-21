@@ -128,9 +128,7 @@ p {
 	color: #fff;
 }
 
-/* #footer .point, .project-info a{
-	color: #e25555;
-} */
+
 #header .nav-list ul a::after {
 	content: attr(data-after);
 	position: absolute;
@@ -386,6 +384,13 @@ p {
 }
 #projects .project-info p {
 	color: white;
+}
+#projects .project-info a{
+	color: #fff;
+}
+#projects .project-info .cta{
+	padding: 10px;
+	font-size: 16px;
 }
 #projects .project-img {
 	flex-basis: 50%;
